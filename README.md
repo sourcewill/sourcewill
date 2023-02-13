@@ -19,7 +19,7 @@
 </div>
 
 ## Social
-[Linkedin](https://www.linkedin.com/in/william-rodrigues-b44a3b199/)
+[Linkedin](https://www.linkedin.com/in/devwill/)
 
 [Instagram](https://www.instagram.com/yes.will/)
 

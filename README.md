@@ -22,6 +22,3 @@
 [Linkedin](https://www.linkedin.com/in/devwill/)
 
 [Instagram](https://www.instagram.com/yes.will/)
-
-##
-![Snake animation](https://github.com/williamrodrigues1997/williamrodrigues1997/blob/output/github-contribution-grid-snake.svg)

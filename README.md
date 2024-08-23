@@ -1,10 +1,3 @@
-
-<div>
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=sourcewill&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=vue"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourcewill&layout=compact&langs_count=8&theme=vue"/>
-</div>
-
-## Skills
 <div style="display: inline_block">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
